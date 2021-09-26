@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h>
+#include <LibAPRS.h>
 
 // The TinyGPS++ object
 TinyGPSPlus gps;
